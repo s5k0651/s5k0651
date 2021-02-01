@@ -10,12 +10,12 @@
    - 📆 Central Board of Secondary Education</br>
      - HSC (XII) - Computer Science - (2014 – 2015)</br>
 
-- 📆 Certifications</br>
-   - Mastering Web3.0 dApps with Waves</br>
-    - Issued date - Aug 2019 - No Expiration - Issuing authority Waves Platform</br>
-    - Credential Identifier - https://wavesexplorer.com/tx/EdkgdJ7Wycsg3jSksXRsuQTSKWSKRpSgVqadE3nzQ3w4
+   - 📆 Certifications</br>
+     - Mastering Web3.0 dApps with Waves</br>
+       - Issued date - Aug 2019 - No Expiration - Issuing authority Waves Platform</br>
+       - Credential Identifier - https://wavesexplorer.com/tx/EdkgdJ7Wycsg3jSksXRsuQTSKWSKRpSgVqadE3nzQ3w4
 
-### Tech I work with
+### Tech I work with:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img width="30px" height="30px" src="/icons/javascript.svg" />
@@ -72,7 +72,7 @@
   <img width="30px" height="30px" src="/icons/docker-official.svg" />
 </a>
 
-### Find me elsewhere
+### Find me elsewhere:
 
 <a href="https://www.linkedin.com/in/s5k0651/">
   <img width="30px" height="30px" src="/icons/linkedin.svg" />
