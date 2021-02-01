@@ -68,7 +68,9 @@
 <a href="https://aws.amazon.com/">
   <img width="30px" height="30px" src="/icons/amazon-web-services-2.svg" />
 </a>
-
+<a href="https://www.docker.com/">
+  <img width="30px" height="30px" src="/icons/docker-official.svg" />
+</a>
 
 ### Find me elsewhere
 
