@@ -50,6 +50,9 @@
 <a href="https://dev.mysql.com/doc/">
   <img width="30px" height="30px" src="/icons/mysql.svg" />
 </a>
+<a href="https://isocpp.org/">
+  <img width="30px" height="30px" src="/icons/c++.svg" />
+</a>
 <a href="https://docs.python.org/3/">
   <img width="30px" height="30px" src="/icons/python.svg" />
 </a>
@@ -76,6 +79,9 @@
 
 <a href="https://www.linkedin.com/in/s5k0651/">
   <img width="30px" height="30px" src="/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/s5k361996/">
+  <img width="30px" height="30px" src="/icons/twitter-4.svg" />
 </a>
 <a href="https://stackoverflow.com/users/7142086/suraj-kumar">
   <img width="30px" height="30px" src="/icons/stackoverflow.svg" />
