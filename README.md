@@ -24,7 +24,7 @@
   <img width="30px" height="30px" src="/icons/react.svg" />
 </a>
 <a href="https://waves.tech/waves-protocol">
-  <img width="30px" height="30px" src="/icons/waves-5.svg" />
+  <img width="30px" height="30px" src="/icons/waves-104.svg" />
 </a>
 <a href="https://polkadot.network/">
   <img width="30px" height="30px" src="/icons/polkadot-new-dot-logo.svg" />
@@ -81,7 +81,7 @@
   <img width="30px" height="30px" src="/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/s5k361996/">
-  <img width="30px" height="30px" src="/icons/twitter-4.svg" />
+  <img width="30px" height="30px" src="/icons/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/7142086/suraj-kumar">
   <img width="30px" height="30px" src="/icons/stackoverflow.svg" />
