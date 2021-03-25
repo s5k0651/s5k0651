@@ -27,7 +27,7 @@
   <img width="30px" height="30px" src="/icons/waves.svg" />
 </a>
 <a href="https://polkadot.network/">
-  <img width="30px" height="30px" src="/icons/polkadot-new-dot-logo.svg" />
+  <img width="30px" height="30px" src="/icons/polkadot.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img width="30px" height="30px" src="/icons/html5.svg" />
@@ -57,7 +57,7 @@
   <img width="30px" height="30px" src="/icons/python.svg" />
 </a>
 <a href="https://www.rust-lang.org/">
-  <img width="30px" height="30px" src="/icons/rust-lang-icon.svg" />
+  <img width="30px" height="30px" src="/icons/rust.svg" />
 </a>
 <a href="https://www.linux.org/">	
   <img width="30px" height="30px" src="/icons/linux.svg" />
@@ -69,10 +69,10 @@
   <img width="30px" height="30px" src="/icons/microsoftazure.svg" />
 </a>
 <a href="https://aws.amazon.com/">
-  <img width="30px" height="30px" src="/icons/amazon-web-services-2.svg" />
+  <img width="30px" height="30px" src="/icons/aws.svg" />
 </a>
 <a href="https://www.docker.com/">
-  <img width="30px" height="30px" src="/icons/docker-official.svg" />
+  <img width="30px" height="30px" src="/icons/docker.svg" />
 </a>
 
 ### Find me elsewhere:
@@ -82,6 +82,9 @@
 </a>
 <a href="https://twitter.com/s5k361996/">
   <img width="30px" height="30px" src="/icons/twitter.svg" />
+</a>
+<a href="https://t.me/s5k0651/">
+  <img width="30px" height="30px" src="/icons/telegram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/7142086/suraj-kumar">
   <img width="30px" height="30px" src="/icons/stackoverflow.svg" />
