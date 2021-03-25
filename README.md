@@ -24,7 +24,7 @@
   <img width="30px" height="30px" src="/icons/react.svg" />
 </a>
 <a href="https://waves.tech/waves-protocol">
-  <img width="30px" height="30px" src="/icons/waves-104.svg" />
+  <img width="30px" height="30px" src="/icons/waves.svg" />
 </a>
 <a href="https://polkadot.network/">
   <img width="30px" height="30px" src="/icons/polkadot-new-dot-logo.svg" />
